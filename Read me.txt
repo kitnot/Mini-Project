@@ -1,0 +1,18 @@
+Password_tool_code Steps:
+
+step 1:
+download the file or copy the content in file and paste in notepad and save as .py.
+
+step 2:
+Open cmd and cd to save file location.
+
+step 3:
+Enter any of this code according to your use:
+
+	Analyzer:
+	python password_tool.py --analyze "Enter Your Password"
+
+	Generator:
+	python password_tool.py --generate "Name,date,location" --years "1990,2000,2023"(provide any info you like)
+
+command will be execuited
